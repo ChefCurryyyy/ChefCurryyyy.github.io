@@ -16,3 +16,8 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(105,75,222,1) 1
 .card-color {
     background-color: purple;
 }
+
+.one-third-card{
+    display: flex;
+    justify-content: space-around;
+}
