@@ -21,3 +21,19 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(105,75,222,1) 1
     display: flex;
     justify-content: space-around;
 }
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 400px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 120px;
+}
